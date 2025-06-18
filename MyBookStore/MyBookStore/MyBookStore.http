@@ -1,0 +1,16 @@
+@MyBookStore_HostAddress = http://localhost:5254
+
+GET {{MyBookStore_HostAddress}}/
+Accept: application/json
+###
+GET {{MyBookStore_HostAddress}}/greta-store/
+Accept: application/json
+###
+GET {{MyBookStore_HostAddress}}/peter-store/
+Accept: application/json
+###
+POST {{MyBookStore_HostAddress}}/
+Accept: application/json
+###
+DELETE {{MyBookStore_HostAddress}}/
+Accept: application/json

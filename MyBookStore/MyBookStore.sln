@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookStore", "MyBookStore\MyBookStore.csproj", "{68AC2724-D5C8-43A9-B0D1-2E741B9F3569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookStoreTest", "MyBookStoreTest\MyBookStoreTest.csproj", "{3D9B0120-EB82-4A57-A5CD-843C80D696B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68AC2724-D5C8-43A9-B0D1-2E741B9F3569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AC2724-D5C8-43A9-B0D1-2E741B9F3569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AC2724-D5C8-43A9-B0D1-2E741B9F3569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AC2724-D5C8-43A9-B0D1-2E741B9F3569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9B0120-EB82-4A57-A5CD-843C80D696B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9B0120-EB82-4A57-A5CD-843C80D696B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9B0120-EB82-4A57-A5CD-843C80D696B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9B0120-EB82-4A57-A5CD-843C80D696B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
