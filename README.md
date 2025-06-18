@@ -14,7 +14,7 @@ For Backend, I use router for simplicity and performance without passing control
 | Price  | Price  | Price  |
 | Store  | -  | - |
 
-As you can see `Greta book` is different from another model, so I should to use Peter model.
+As you can see `Greta book` is different from another model, so I choose to use Peter model for universal model.
 
 ## Api Endpoint
 - / `GET` : for getting order from orders databse
