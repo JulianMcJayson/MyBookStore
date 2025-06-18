@@ -2,6 +2,8 @@
 - Backend (ASPNET WebApi, Sqlite)
 - Frontend (NextJS 15, TailwindCSS)
 
+For Backend, I use router for simplicity and performance without passing controller and provider.
+
 ## Model
 
 | Order Model  | Greta Book Model | Peter Book Model |
